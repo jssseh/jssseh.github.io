@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dirt" #"default" "air", "aqua", "contrast", "dark", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "passion "
+title                    : "개발자가 되고 싶은 chris의 블로그"
 title_separator          : "-"
 name                     : ""
 description              : "An amazing website."
@@ -135,7 +135,6 @@ author:
 # Site Footer
 footer:
   links:
-  
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: jssseh@yonsei.ac.kr
