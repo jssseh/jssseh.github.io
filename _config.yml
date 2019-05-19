@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "수현 Chris"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Seol, Republic of Korea"
+  bio              : "Medical Imaging Engineer."
+  location         : "Seoul, Republic of Korea"
   email            : jssseh@yonsei.ac.kr
   links:
     - label: "Email"
